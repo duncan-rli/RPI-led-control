@@ -1,4 +1,4 @@
 # RPI-led-control
 Control LED from GPIO
 
-Flash led using timer
+Flash led using software pulse width modulation
